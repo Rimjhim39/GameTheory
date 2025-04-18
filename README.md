@@ -1,1 +1,1 @@
-# GameTheory
+# GameTheoryInAI
